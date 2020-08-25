@@ -1,0 +1,8 @@
+.vs/
+packages/
+WinDriver.Client/bin/
+WinDriver.Client/obj/
+WinDriver.Core/bin/
+WinDriver.Core/obj/
+WinDriver/bin/
+WinDriver/obj/
